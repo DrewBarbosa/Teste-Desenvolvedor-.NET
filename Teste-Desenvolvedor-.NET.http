@@ -1,0 +1,6 @@
+@Teste_Desenvolvedor_.NET_HostAddress = http://localhost:5093
+
+GET {{Teste_Desenvolvedor_.NET_HostAddress}}/vestibularAPI/
+Accept: application/json
+
+###
